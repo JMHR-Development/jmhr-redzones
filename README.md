@@ -39,13 +39,15 @@ To reset the stats database please run `resetredzonestats` in server console.
 
 -- Support --
 If you need support join the Discord below, support is a privilige not a right so do not expect quick responses. If there are any issues please try to fix yourself first :)
+
 https://discord.gg/D2YwMYYtYh
 
 ❤ https://ko-fi.com/jmhruk ❤
-
+```
        _ __  __ _    _ _____        _    _ _  __
       | |  \/  | |  | |  __ \      | |  | | |/ /
       | | \  / | |__| | |__) |     | |  | | ' / 
   _   | | |\/| |  __  |  _  /      | |  | |  <  
  | |__| | |  | | |  | | | \ \   _  | |__| | . \ 
   \____/|_|  |_|_|  |_|_|  \_\ (_)  \____/|_|\_\
+```
