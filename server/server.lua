@@ -1,3 +1,4 @@
+--[[
 local version = GetResourceMetadata("jmhr-redzones", "version")
 PerformHttpRequest("https://api.github.com/repos/JMHR-Development/jmhr-redzones/releases/latest", function(status, body)
     if status ~= 200 then
@@ -17,7 +18,7 @@ PerformHttpRequest("https://api.github.com/repos/JMHR-Development/jmhr-redzones/
         print("^2[JMHR-Redzones] Version Check - You are running the latest version (" .. version .. ")^0")
     end
 end, "GET", "", { ["User-Agent"] = "FiveM-Version-Check" })
-
+--]]
 
 local inZone = {}
 
@@ -83,4 +84,5 @@ RegisterNetEvent("jmhr-redzones:HelpPlayer", function(zoneKey)
     end)
 
     sendToDiscord(server_config.reviveWebhook, "Redzone Player Revived:", "**Player Being Revived:** ID" .. src .. " (" .. GetPlayerName(src) .. ")")
+
 end) 
