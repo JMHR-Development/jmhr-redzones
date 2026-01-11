@@ -1,11 +1,4 @@
-shared_script '@WaveShield/resource/include.lua'
-shared_script '@WaveShield/resource/waveshield.js'
-
-
-
-
-
-lua54 "yes" -- needed for Reaper
+lua54 "yes" 
 
 --[[
        _ __  __ _    _ _____        _    _ _  __
@@ -50,3 +43,4 @@ files {
     'web/style.css',
     'web/script.js',
 }
+
