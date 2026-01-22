@@ -1,4 +1,5 @@
-# JMHR Redzones
+# This resource has been archived...
+All new updates will be found in https://github.com/Motion-Scripts/motion_redzones
 
 *(If you're looking for install guide check INSTALL.MD)*
 
@@ -56,6 +57,7 @@ https://discord.gg/D2YwMYYtYh
  | |__| | |  | | |  | | | \ \   _  | |__| | . \ 
   \____/|_|  |_|_|  |_|_|  \_\ (_)  \____/|_|\_\
 ```
+
 
 
 
